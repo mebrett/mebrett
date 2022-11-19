@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 <!--
 **mebrett/mebrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a digital and public historian. 
+
+Find me on mastodon at <a rel="me" href="https://fedihum.org/@magpie">FediHum.org</a>
